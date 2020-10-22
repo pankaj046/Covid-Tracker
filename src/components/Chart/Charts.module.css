@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 50px !important;
+    margin: 0 10% !important;
+}
+
+@media (max-width: 770px){
+    .container{
+      margin: 0 10% !important;
+    }
+  }
+
+
+.car_container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 50px !important;
+    margin: 0 10% !important;
+}
+
+@media (max-width: 770px){
+    .car_container{
+      margin: 0 10% !important;
+    }
+}

@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Simple Covid-19 tracker
+
+[http://localhost:3000]
 
 In the project directory, you can run:
 
